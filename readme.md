@@ -1,4 +1,4 @@
-# filita. Privacy Policy
+# Filita Privacy Policy
 ![](https://raw.githubusercontent.com/enf3tri/filita.github.io/main/img/policy.png)
 
 **Privacy Policy**
